@@ -4,6 +4,7 @@ public class Main {
         mhs.setNama("Jaka Junaedi");
         mhs.setAlamat("Jakarta");
         mhs.setUmur(19);
-        mhs.tampil();
+        mhs.makan(); // methode makan //
+        mhs.tampil(); // methode tampill //
     }
 }

@@ -4,7 +4,7 @@ public class Mahasiswa {
     private int umur;
 
     public void makan(){
-        System.out.println(this.nama +"sedang makan NASI");
+        System.out.println(this.nama +" sedang makan NASI");
     }
 
     public String getAlamat() {
