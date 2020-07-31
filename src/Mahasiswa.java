@@ -1,13 +1,13 @@
-public class mahasiswa {
-    private string nama;
-    private string alamat;
+public class Mahasiswa {
+    private String nama;
+    private String alamat;
     private int umur;
 
     public void makan(){
-        system.out.printIn(this.nama +"sedang makan");
+        System.out.println(this.nama +"sedang makan");
     }
 
-    public string getAlamat() {
+    public String getAlamat() {
         return alamat;
     }
 
@@ -15,15 +15,15 @@ public class mahasiswa {
         return umur;
     }
 
-    private string getNama(){
+    private String getNama(){
         return this.nama;
     }
 
-    public void setNama(string nama) {
+    public void setNama(String nama) {
         this.nama = nama;
     }
 
-    public void setAlamat(string alamat) {
+    public void setAlamat(String alamat) {
         this.alamat = alamat;
     }
 
