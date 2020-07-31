@@ -32,6 +32,6 @@ public class Mahasiswa {
     }
 
     public void tampil(){
-        System.out.println(this.nama+""+this.alamat+""+this.umur);
+        System.out.println(this.nama+" "+this.alamat+" "+this.umur);
     }
 }
