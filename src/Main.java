@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        mahasiswa mhs = new mahasiswa();
-        mhs.setNama("JAka");
+        Mahasiswa mhs = new Mahasiswa();
+        mhs.setNama("JAKA");
+
         mhs.setAlamat("jakarta");
         mhs.setUmur(19);
         mhs.tampil();
