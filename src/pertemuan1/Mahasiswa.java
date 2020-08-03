@@ -1,3 +1,5 @@
+package pertemuan1;
+
 public class Mahasiswa {
     private String nama;
     private String alamat;
